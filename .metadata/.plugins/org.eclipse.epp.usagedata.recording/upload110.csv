@@ -1,0 +1,14 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.tigris.subversion.subclipse.ui,1.4.1,org.tigris.subversion.subclipse.ui,1216907567375
+started,bundle,org.eclipse.mylyn.monitor.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.monitor.ui,1216907567765
+started,bundle,org.jboss.ide.eclipse.core,2.1.1.GA,org.jboss.ide.eclipse.core,1216907567843
+started,bundle,org.hibernate.eclipse.jdt.ui,3.2.3.GA,org.hibernate.eclipse.jdt.ui,1216907570781
+started,bundle,org.hibernate.eclipse,3.2.3.GA,org.hibernate.eclipse,1216907571578
+started,bundle,org.hibernate.eclipse.console,3.2.3.GA,org.hibernate.eclipse.console,1216907572390
+started,bundle,org.eclipse.jdt.apt.core,3.3.100.v20080513-1235,org.eclipse.jdt.apt.core,1216907572406
+started,bundle,org.eclipse.core.variables,3.2.100.v20080529-1300,org.eclipse.core.variables,1216907572656
+activated,view,org.eclipse.ui.navigator.resources,3.3.100.I20080606-1300,org.eclipse.ui.navigator.ProjectExplorer,1216907572765
+started,bundle,org.eclipse.jst.servlet.ui,1.1.200.v200805150230,org.eclipse.jst.servlet.ui,1216907572859
+closed,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1216907585406
+stopped,bundle,com.sysdeo.eclipse.tomcat,3.2.1,com.sysdeo.eclipse.tomcat,1216907586468
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,org.eclipse.jst.j2ee.xdoclet.runtime,1216907586500

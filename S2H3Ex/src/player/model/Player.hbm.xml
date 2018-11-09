@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="player.model.Player" table="wowplayer">  	
+		<id name="id" type="java.lang.String" column="id" >
+			<generator class="assigned" />
+		</id>
+		<property name="name" type="java.lang.String" column="name"/>
+		<property name="level" type="java.lang.Integer" column="level" />
+		<property name="race" type="java.lang.String" column="race"/>
+		<property name="profession" type="java.lang.String" column="profession"/>
+	</class> 
+</hibernate-mapping>

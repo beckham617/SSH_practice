@@ -1,0 +1,13 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.team.ui,3.4.0.I20080604,org.eclipse.team.ui,1216816900281
+stopped,bundle,org.eclipse.compare,3.4.0.I20080604,org.eclipse.compare,1216816900281
+stopped,bundle,org.jboss.ide.eclipse.firstrun,2.1.1.GA,org.jboss.ide.eclipse.firstrun,1216816900281
+stopped,bundle,org.jboss.ide.eclipse.xdoclet.core,2.0.0.GA,org.jboss.ide.eclipse.xdoclet.core,1216816900343
+stopped,bundle,org.jboss.ide.eclipse.xdoclet.ui,2.0.0.GA,org.jboss.ide.eclipse.xdoclet.ui,1216816900406
+stopped,bundle,org.jboss.ide.eclipse.ui,2.1.1.GA,org.jboss.ide.eclipse.ui,1216816900468
+stopped,bundle,org.jboss.ide.eclipse.core,2.1.1.GA,org.jboss.ide.eclipse.core,1216816900468
+stopped,bundle,org.eclipse.ui.externaltools,3.2.0.v20080514-1542,org.eclipse.ui.externaltools,1216816900531
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core,1.0.0.v200805152355,org.eclipse.datatools.sqltools.debugger.core,1216816900625
+stopped,bundle,org.eclipse.datatools.sqltools.db.derby,1.0.0.v200805152355,org.eclipse.datatools.sqltools.db.derby,1216816900718
+stopped,bundle,org.eclipse.datatools.sqltools.routineeditor,1.0.0.v200805261703,org.eclipse.datatools.sqltools.routineeditor,1216816900812
+stopped,bundle,org.eclipse.datatools.sqltools.db.generic,1.0.0.v200805152355,org.eclipse.datatools.sqltools.db.generic,1216816900906

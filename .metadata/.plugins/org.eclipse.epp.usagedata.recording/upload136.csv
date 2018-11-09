@@ -1,0 +1,13 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.jboss.ide.eclipse.xdoclet.assist,2.0.0.GA,org.jboss.ide.eclipse.xdoclet.assist,1217246393281
+stopped,bundle,org.jboss.tools.common.text.xml,2.1.1.GA,org.jboss.tools.common.text.xml,1217246393281
+stopped,bundle,org.tigris.subversion.subclipse.ui,1.4.1,org.tigris.subversion.subclipse.ui,1217246393281
+stopped,bundle,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui,1217246393281
+stopped,bundle,org.eclipse.mylyn.bugzilla.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.bugzilla.ui,1217246393281
+stopped,bundle,org.eclipse.mylyn.ide.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.ide.ui,1217246393296
+stopped,bundle,org.eclipse.mylyn.team.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.team.ui,1217246393296
+stopped,bundle,org.eclipse.mylyn.resources.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.resources.ui,1217246393296
+stopped,bundle,org.eclipse.mylyn.context.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.context.ui,1217246393296
+stopped,bundle,org.eclipse.mylyn.help.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.help.ui,1217246393390
+stopped,bundle,org.eclipse.mylyn.tasks.bugs,3.0.0.v20080619-1900,org.eclipse.mylyn.tasks.bugs,1217246393406
+stopped,bundle,org.eclipse.mylyn.tasks.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.tasks.ui,1217246393406

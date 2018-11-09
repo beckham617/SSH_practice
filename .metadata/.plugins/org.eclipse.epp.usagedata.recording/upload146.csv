@@ -1,0 +1,17 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jdt.junit,3.4.0.v20080603-2000,org.eclipse.jdt.junit,1217593293609
+started,bundle,org.eclipse.jst.server.ui,1.0.303.v200805140145,org.eclipse.jst.server.ui,1217593293625
+started,bundle,org.eclipse.ui.views.log,1.0.0.v20080522-2200,org.eclipse.ui.views.log,1217593293656
+started,bundle,org.eclipse.pde.ui,3.4.0.v20080530,org.eclipse.pde.ui,1217593293687
+activated,view,org.eclipse.ui.navigator.resources,3.3.100.I20080606-1300,org.eclipse.ui.navigator.ProjectExplorer,1217593297062
+opened,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1217593297500
+activated,editor,org.eclipse.jdt.ui,3.4.0.v20080603-2000,org.eclipse.jdt.ui.CompilationUnitEditor,1217593297734
+started,bundle,org.eclipse.mylyn.ide.ant,3.0.0.v20080619-1900,org.eclipse.mylyn.ide.ant,1217593311046
+started,bundle,org.eclipse.mylyn.java.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.java.ui,1217593311078
+started,bundle,org.eclipse.mylyn.pde.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.pde.ui,1217593311093
+started,bundle,org.eclipse.mylyn.resources.ui,3.0.0.v20080619-1900,org.eclipse.mylyn.resources.ui,1217593311125
+closed,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1217593311640
+stopped,bundle,com.sysdeo.eclipse.tomcat,3.2.1,com.sysdeo.eclipse.tomcat,1217593313234
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,org.eclipse.jst.j2ee.xdoclet.runtime,1217593313312
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1217593313359
+stopped,bundle,org.eclipse.jst.server.generic.jboss,1.5.205.v200805140145,org.eclipse.jst.server.generic.jboss,1217593313437

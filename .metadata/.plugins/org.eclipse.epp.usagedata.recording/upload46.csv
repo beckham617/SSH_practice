@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.wst.server.ui,1.1.0.v20080515,org.eclipse.wst.server.launchShortcut.run,1216817147500
+opened,editor,org.eclipse.ui.browser,3.2.200.v20080507,org.eclipse.ui.browser.editor,1216817147593
+activated,editor,org.eclipse.ui.browser,3.2.200.v20080507,org.eclipse.ui.browser.editor,1216817147718
+activated,view,org.eclipse.ui.navigator.resources,3.3.100.I20080606-1300,org.eclipse.ui.navigator.ProjectExplorer,1216817149156
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1216817150218
+closed,editor,org.eclipse.wst.xml.ui,1.0.400.v200806051910,org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart,1216817153218
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1216817153265
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.0.v20080605-1800,org.eclipse.ltk.ui.refactoring.commands.deleteResources,1216817153312
+executed,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.edit.delete,1216817153312
+deactivated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1216817156484
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1216817158250
+executed,command,org.eclipse.wst.server.ui,1.1.0.v20080515,org.eclipse.wst.server.launchShortcut.run,1216817158328
+opened,editor,org.eclipse.ui.browser,3.2.200.v20080507,org.eclipse.ui.browser.editor,1216817160875
+activated,editor,org.eclipse.ui.browser,3.2.200.v20080507,org.eclipse.ui.browser.editor,1216817160937
+no handler,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.refresh,1216817166734
+no handler,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.refresh,1216817167484
+no handler,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.refresh,1216817169015
+no handler,command,org.eclipse.ui,3.4.0.I20080610-1200,org.eclipse.ui.file.refresh,1216817170187
+activated,view,org.eclipse.ui.console,3.3.0.v20080529-1300,org.eclipse.ui.console.ConsoleView,1216817171328
+activated,view,org.eclipse.wst.server.ui,1.1.0.v20080515,org.eclipse.wst.server.ui.ServersView,1216817171984
+executed,command,org.eclipse.wst.server.ui,1.1.0.v20080515,org.eclipse.wst.server.run,1216817175296
+activated,view,org.eclipse.ui.console,3.3.0.v20080529-1300,org.eclipse.ui.console.ConsoleView,1216817177937
+activated,view,org.eclipse.wst.server.ui,1.1.0.v20080515,org.eclipse.wst.server.ui.ServersView,1216817178328
+activated,editor,org.eclipse.ui.browser,3.2.200.v20080507,org.eclipse.ui.browser.editor,1216817181984
+activated,editor,org.eclipse.ui.browser,3.2.200.v20080507,org.eclipse.ui.browser.editor,1216817182031

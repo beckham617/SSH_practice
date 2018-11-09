@@ -1,0 +1,12 @@
+#Wed Jul 23 20:24:39 CST 2008
+fixTomcatHomeBug=fixed
+contextsDir=E\:\\Tomcat 5.5\\conf\\Catalina\\localhost
+tomcatDir=E\:\\Tomcat 5.5
+tomcatJRE=1216815515375
+tomcatConfigFile=E\:\\Tomcat 5.5\\conf\\server.xml
+projectsInCp=operatedb;test2;
+eclipse.preferences.version=1
+tomcatVersion=tomcatV5
+tomcatBase=E\:\\Tomcat 5.5
+managerUrl=http\://localhost\:8080/manager
+projectsInSourcePath=operatedb;test2;

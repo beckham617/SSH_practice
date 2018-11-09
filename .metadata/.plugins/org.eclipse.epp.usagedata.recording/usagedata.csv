@@ -1,0 +1,13 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1225592020437
+closed,workbench,org.eclipse.ui.workbench,3.4.0.I20080606-1300,,1225592021546
+stopped,bundle,com.sysdeo.eclipse.tomcat,3.2.1,com.sysdeo.eclipse.tomcat,1225592025156
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,org.eclipse.jst.j2ee.xdoclet.runtime,1225592025312
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1225592025390
+stopped,bundle,org.eclipse.jst.server.generic.jboss,1.5.205.v200805140145,org.eclipse.jst.server.generic.jboss,1225592025453
+stopped,bundle,org.eclipse.jst.server.generic.jonas,1.5.205.v200805140145,org.eclipse.jst.server.generic.jonas,1225592025468
+stopped,bundle,org.eclipse.jst.server.generic.oc4j,1.5.205.v200805140145,org.eclipse.jst.server.generic.oc4j,1225592025546
+stopped,bundle,org.jboss.tools.esb.ui,1.0.0.GA,org.jboss.tools.esb.ui,1225592025578
+stopped,bundle,org.jboss.tools.jsf.ui,2.1.1.GA,org.jboss.tools.jsf.ui,1225592025578
+stopped,bundle,org.jboss.tools.jst.web.tiles.ui,2.1.1.GA,org.jboss.tools.jst.web.tiles.ui,1225592025625
+stopped,bundle,org.jboss.tools.seam.xml.ui,2.1.2.GA,org.jboss.tools.seam.xml.ui,1225592025718
